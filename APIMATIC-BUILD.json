@@ -1,0 +1,16 @@
+{
+    "$schema": "https://titan.apimatic.io/api/build/schema",
+    "buildFileVersion": "1",
+    "generateVersionedPortal": {
+        "versions": [
+          {
+            "label": "v2021.06.17 (beta)",
+            "version": "v2021-06-17"
+          },
+          {
+            "label": "v2020.02.24 (current)",
+            "version": "v2020-02-24"
+          }
+        ]
+      }    
+  }

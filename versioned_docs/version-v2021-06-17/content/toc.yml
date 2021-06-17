@@ -1,0 +1,17 @@
+toc:
+  - group: Getting Started
+    items:
+      - page: Root Folder Doc
+        file: rootbasetestdoc.md
+      - generate: How to Get Started
+        from: getting-started
+      - page: SubFolder Doc
+        file: subfoldertest\subfoldertestdoc.md
+      - page: SubSubFolder Doc
+        file: subfoldertest\subsubfoldertest\subsubfoldertestdoc.md
+  - group: Guides
+    dir: guides
+  - generate: API Endpoints
+    from: endpoints
+  - generate: Models
+    from: models
